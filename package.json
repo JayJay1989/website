@@ -14,10 +14,12 @@
     "sass-loader": "^7.1.0",
     "url-loader": "^1.1.2",
     "webpack": "^4.36.1",
-    "webpack-cli": "^3.2.3"
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.11.2"
   },
   "scripts": {
     "build": "webpack",
-    "watch": "webpack --watch"
+    "watch": "webpack --watch",
+    "start": "start http://localhost:8000/ & webpack-dev-server"
   }
 }
