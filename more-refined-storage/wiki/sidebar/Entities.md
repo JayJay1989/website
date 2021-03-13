@@ -1,0 +1,3 @@
+- [[Glace Skeleton]]
+- [[Crystalized Chicken]]
+- [[Crystalized Cow]]

@@ -3,15 +3,34 @@ $font-family-sans-serif: Open Sans;
 $body-bg: rgb(248, 249, 250);
 
 @import "../app";
-
+/*!
+ * More Refined Storage
+ */
 .logo {
     width: 122px;
     height: 40px;
-    background: url(/assets/refined-storage/logo.png);
+    background: url(/assets/more-refined-storage/logo.png);
 
     a {
         width: 122px;
         height: 40px;
         display: block;
     }
+}
+
+article pre {
+	font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
+	background: rgb(43, 43, 43);
+    border: #646464 solid 1px;
+    border-radius: .25rem;
+    color: white;
+    padding: 0.5rem;
+}
+
+code {
+    font-size: 87.5%;
+    color: white;
+    background: rgb(43, 43, 43);
+	border-radius: .25rem;
+    padding: 0.25rem;
 }

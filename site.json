@@ -17,82 +17,16 @@
         {
           "file": "more-refined-storage/wiki/sidebar/Items.md",
           "name": "Items"
+        },
+        {
+          "file": "more-refined-storage/wiki/sidebar/Entities.md",
+          "name": "Entities"
         }
       ],
       "releaseGroups": [
         {
-          "name": "Minecraft 1.9",
-          "source": "more-refined-storage/releases/minecraft-1.9.json",
-          "featured": false
-        },
-        {
-          "name": "Minecraft 1.9.4",
-          "source": "more-refined-storage/releases/minecraft-1.9.4.json",
-          "featured": true
-        },
-        {
-          "name": "Minecraft 1.10.2",
-          "source": "more-refined-storage/releases/minecraft-1.10.2.json",
-          "featured": true
-        },
-        {
-          "name": "Minecraft 1.11",
-          "source": "more-refined-storage/releases/minecraft-1.11.json",
-          "featured": false
-        },
-        {
-          "name": "Minecraft 1.11.2",
-          "source": "more-refined-storage/releases/minecraft-1.11.2.json",
-          "featured": true
-        },
-        {
-          "name": "Minecraft 1.12",
-          "source": "more-refined-storage/releases/minecraft-1.12.json",
-          "featured": false
-        },
-        {
-          "name": "Minecraft 1.12.1",
-          "source": "more-refined-storage/releases/minecraft-1.12.1.json",
-          "featured": false
-        },
-        {
           "name": "Minecraft 1.12.2",
           "source": "more-refined-storage/releases/minecraft-1.12.2.json",
-          "featured": true
-        },
-        {
-          "name": "Minecraft 1.14.4",
-          "source": "more-refined-storage/releases/minecraft-1.14.4.json",
-          "featured": true
-        },
-        {
-          "name": "Minecraft 1.15.1",
-          "source": "more-refined-storage/releases/minecraft-1.15.1.json",
-          "featured": false
-        },
-        {
-          "name": "Minecraft 1.15.2",
-          "source": "more-refined-storage/releases/minecraft-1.15.2.json",
-          "featured": true
-        },
-        {
-          "name": "Minecraft 1.16.1",
-          "source": "more-refined-storage/releases/minecraft-1.16.1.json",
-          "featured": false
-        },
-        {
-          "name": "Minecraft 1.16.2",
-          "source": "more-refined-storage/releases/minecraft-1.16.2.json",
-          "featured": false
-        },
-        {
-          "name": "Minecraft 1.16.3",
-          "source": "more-refined-storage/releases/minecraft-1.16.3.json",
-          "featured": true
-        },
-        {
-          "name": "Minecraft 1.16.4",
-          "source": "more-refined-storage/releases/minecraft-1.16.4.json",
           "featured": true
         }
       ],

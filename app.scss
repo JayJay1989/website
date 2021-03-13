@@ -1,5 +1,9 @@
 @import "~bootstrap/scss/bootstrap";
 
+/*!
+ * Refined Storage
+ */
+
 .page-title {
   display: flex;
   justify-content: space-between;
@@ -24,17 +28,17 @@ img.home-icon {
     height: 48px;
 }
 
-.creeperhost-logo {
-    background: url(/assets/creeperhost-logo.png);
-    width: 128px;
-    height: 32px;
+.nevoka-logo {
+    background: url(/assets/nevoka-logo.png);
+    width: 88px;
+    height: 31px;
     margin-top: -4px;
     margin-left: 5px;
 
     a {
         display: block;
-        width: 128px;
-        height: 32px;
+        width: 88px;
+        height: 31px;
     }
 }
 

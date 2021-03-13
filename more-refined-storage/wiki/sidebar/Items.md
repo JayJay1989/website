@@ -1,73 +1,39 @@
-- [[Silicon]]
-- [[Cutting Tool]]
-- [[Wrench]]
-- [[Quartz Enriched Iron]]
-- [[Storage Housing]]
-- [[Pattern]]
-- [[Filter]]
-- [[Wireless Grid]]
-  - [[Creative Wireless Grid]]
-- [[Portable Grid]]
-- [[Wireless Fluid Grid]]
-  - [[Creative Wireless Fluid Grid]]
-- [[Wireless Crafting Monitor]]
-  - [[Creative Wireless Crafting Monitor]]
-- [[Network Card]]
-- [[Security Card]]
-- [[Upgrade]]
-  - [[Range Upgrade]]
-  - [[Speed Upgrade]]
-  - [[Stack Upgrade]]
-  - [[Crafting Upgrade]]
-  - [[Regulator Upgrade]]
-  - [[Fortune Upgrade]]
-  - [[Silk Touch Upgrade]]
-  - [[Interdimensional Upgrade]]
-
-**Cores**
-
-- [[Construction Core]]
-- [[Destruction Core]]
- 
-**Raw Processors**
-
-- [[Processor Binding]]
-- [[Raw Basic Processor]]
-- [[Raw Improved Processor]]
-- [[Raw Advanced Processor]]
-
-**Processors**
-
-- [[Basic Processor]]
-- [[Improved Processor]]
-- [[Advanced Processor]]
+- [[Crystalized Dust]]
+- [[Crystalized Nugget]]
+- [[Crystalized Ingot]]
 
 **Storage Parts**
 
-- [[1k Storage Part]]
-- [[4k Storage Part]]
-- [[16k Storage Part]]
-- [[64k Storage Part]]
+- [[65m Storage Part]]
+- [[262m Storage Part]]
+- [[1b Storage Part]]
 
 **Storage Disks**
 
-- [[1k Storage Disk]]
-- [[4k Storage Disk]]
-- [[16k Storage Disk]]
-- [[64k Storage Disk]]
-- [[Creative Storage Disk]]
+- [[65m Storage Disk]]
+- [[262m Storage Disk]]
+- [[1b Storage Disk]]
 
-**Fluid Storage Parts**
+**Armor**
 
-- [[64k Fluid Storage Part]]
-- [[256k Fluid Storage Part]]
-- [[1024k Fluid Storage Part]]
-- [[4096k Fluid Storage Part]]
+- [[Crystalized Helmet]]
+- [[Crystalized Chestplate]]
+- [[Crystalized Leggings]]
+- [[Crystalized Boots]]
 
-**Fluid Storage Disks**
+**Tools**
 
-- [[64k Fluid Storage Disk]]
-- [[256k Fluid Storage Disk]]
-- [[1024k Fluid Storage Disk]]
-- [[4096k Fluid Storage Disk]]
-- [[Creative Fluid Storage Disk]]
+- Freezing Arrow
+- [[Crystalized Axe]]
+- [[Crystalized Hoe]]
+- [[Crystalized Pickaxe]]
+- [[Crystalized Shovel]]
+- [[Crystalized Shear]]
+
+**Potions**
+
+- Freezing Potion
+
+**Enchantment Books**
+
+- Unfreezing
